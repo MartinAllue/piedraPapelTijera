@@ -1,6 +1,6 @@
 import csv
 import time
-import keyboard  # Necesita instalarse con: pip install keyboard
+import keyboard
 
 # Mapeo de teclas a jugadas
 # Jugador 1 (izquierda): a = piedra, s = papel, d = tijera
